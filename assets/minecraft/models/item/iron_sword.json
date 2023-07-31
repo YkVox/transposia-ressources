@@ -7,7 +7,7 @@
 			"predicate": {
 				"custom_model_data": 2001
 			},
-			"model": "item/uchigatana"
+			"model": "item/weapon/uchigatana"
 		}
 	]
 }

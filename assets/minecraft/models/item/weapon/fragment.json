@@ -1,0 +1,35 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld_rod",
+	"textures": {
+		"layer0": "transposia:weapon/fragment",
+		"particle": "transposia:weapon/fragment"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [54, 90, 0],
+			"translation": [0, 4.75, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [54, -90, 0],
+			"translation": [0, 4.75, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [22.25, 90, 0],
+			"translation": [1.25, 4.5, 2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [22.25, -90, 0],
+			"translation": [1.25, 4.5, 2]
+		},
+		"ground": {
+			"rotation": [0, 0, -47],
+			"translation": [0, 0.75, 0]
+		},
+		"head": {
+			"rotation": [0, 0, -17],
+			"translation": [0, -15.25, 4.5],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

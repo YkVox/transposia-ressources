@@ -1,0 +1,117 @@
+{
+	"ambient.bell.distant": {
+	"sounds": [
+		{
+		"name":
+		"transposia:ambient/bell_distant"
+		}
+	]
+},
+
+	"ambient.academy": {
+		"category": "ambient",
+		"sounds": [
+		{
+			"name":
+			"transposia:ambient/academy_grounds_01"
+		},
+		{
+			"name":
+			"transposia:ambient/academy_grounds_02"
+		},
+		{
+			"name":
+			"transposia:ambient/academy_grounds_03"
+		},
+		{
+			"name":
+			"transposia:ambient/academy_grounds_04"
+		},
+		{
+			"name":
+			"transposia:ambient/academy_grounds_05"
+		},
+		{
+			"name":
+			"transposia:ambient/academy_grounds_06"
+		},
+		{
+			"name":
+			"transposia:ambient/academy_grounds_07"
+		},
+		{
+			"name":
+			"transposia:ambient/academy_grounds_08"
+		},
+		{
+			"name":
+			"transposia:ambient/academy_grounds_09"
+		},
+		{
+			"name":
+			"transposia:ambient/academy_grounds_10"
+		}
+	]
+},
+"music.balloon": {
+	"category": "music",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:music/hot_balloon"
+		}
+	]
+},
+"weapon.yumi.whistle": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:weapon/yumi_whistle_01"
+		},
+		{
+			"name":
+			"transposia:weapon/yumi_whistle_02",
+			"pitch": 0.97
+		},
+		{
+			"name":
+			"transposia:weapon/yumi_whistle_01",
+			"pitch": 1.03
+		},
+		{
+			"name":
+			"transposia:weapon/yumi_whistle_01",
+			"pitch": 1.05
+		}
+	]
+},
+"weapon.spectral.whistle": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:weapon/spectral_whistle",
+			"pitch": 1.03
+		},
+		{
+			"name":
+			"transposia:weapon/spectral_whistle",
+			"pitch": 1
+		},
+		{
+			"name":
+			"transposia:weapon/spectral_whistle",
+			"pitch": 0.97
+		},
+		{
+			"name":
+			"transposia:weapon/spectral_whistle",
+			"pitch": 0.95
+		}
+	]
+}
+}

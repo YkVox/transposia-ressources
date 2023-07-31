@@ -7,7 +7,19 @@
 			"predicate": {
 				"custom_model_data": 1000
 			},
-			"model": "item/academy_staff"
+			"model": "item/weapon/academy_staff"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3000
+			},
+			"model": "item/weapon/talisman"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4000
+			},
+			"model": "item/weapon/fragment"
 		}
   ]
 }
