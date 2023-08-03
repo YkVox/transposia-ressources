@@ -5,7 +5,21 @@
 	},
 
 	"overrides": [
-		{"predicate": {"custom_model_data": 401},"model": "item/head/academy_hat"}
+		{"predicate": {"custom_model_data": 401},"model": "item/head/academy_hat"},
+		{"predicate": {"custom_model_data": 402},"model": "item/head/taikos_jingasa"},
+		{"predicate": {"custom_model_data": 403},"model": "item/head/farmer_hat"},
+		{"predicate": {"custom_model_data": 405},"model": "item/head/swamp_leaf"},
+		{"predicate": {"custom_model_data": 406},"model": "item/head/desert_hat"},
+		{"predicate": {"custom_model_data": 407},"model": "item/head/witch"},
+		{"predicate": {"custom_model_data": 408},"model": "item/head/armorer_mask"},
+		{"predicate": {"custom_model_data": 409},"model": "item/head/fisherman_hat"},
+		{"predicate": {"custom_model_data": 410},"model": "item/head/fletcher_hat"},
+		{"predicate": {"custom_model_data": 411},"model": "item/head/snow_shapka"},
+		{"predicate": {"custom_model_data": 412},"model": "item/head/cloak_hood"},
+		{"predicate": {"custom_model_data": 413},"model": "item/head/shepherd_hat"},
+		{"predicate": {"custom_model_data": 414},"model": "item/head/librarian_cap"},
+		{"predicate": {"custom_model_data": 415},"model": "item/head/flower_crown"},
+		{"predicate": {"custom_model_data": 416},"model": "item/head/wolf_fur"}
 
 	]
 }
