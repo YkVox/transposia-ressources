@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/glowstone_dust"
+  },
+	"overrides": [{
+			"predicate": {
+				"custom_model_data": 444
+			},
+			"model": "item/special/title"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 445
+			},
+			"model": "item/special/seagull"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 446
+			},
+			"model": "item/special/credit"
+		}
+  ]
+}

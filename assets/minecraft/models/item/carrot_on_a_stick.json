@@ -20,6 +20,24 @@
 				"custom_model_data": 4000
 			},
 			"model": "item/weapon/fragment"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6000
+			},
+			"model": "item/weapon/bat_memory"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6001
+			},
+			"model": "item/weapon/bear_memory"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6002
+			},
+			"model": "item/weapon/wolf_memory"
 		}
   ]
 }

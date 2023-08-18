@@ -19,7 +19,9 @@
 		{"predicate": {"custom_model_data": 413},"model": "item/head/shepherd_hat"},
 		{"predicate": {"custom_model_data": 414},"model": "item/head/librarian_cap"},
 		{"predicate": {"custom_model_data": 415},"model": "item/head/flower_crown"},
-		{"predicate": {"custom_model_data": 416},"model": "item/head/wolf_fur"}
+		{"predicate": {"custom_model_data": 416},"model": "item/head/wolf_fur"},
+		{"predicate": {"custom_model_data": 417},"model": "item/head/champion_crown"},
+		{"predicate": {"custom_model_data": 418},"model": "item/head/myno_horns"}
 
 	]
 }

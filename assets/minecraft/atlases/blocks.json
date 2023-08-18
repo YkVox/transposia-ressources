@@ -22,6 +22,11 @@
         },
         {
             "type": "directory",
+            "source": "special",
+            "prefix": "special/"
+        },
+        {
+            "type": "directory",
             "source": "entity/conduit",
             "prefix": "entity/conduit/"
         },
