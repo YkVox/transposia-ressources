@@ -27,5 +27,19 @@
   "container.loom": "§fLoom",
   "container.repair": "§fRepair & Name",
   "container.smoker": "§fSmoker",
-  "container.stonecutter": "§fStonecutter"
+  "container.stonecutter": "§fStonecutter",
+  "entity.minecraft.wither_skeleton": "Demon",
+  "item.minecraft.wither_skeleton_spawn_egg": "Demon Spawn Egg",
+  "subtitles.entity.wither_skeleton.ambient": "Demon agony",
+  "subtitles.entity.wither_skeleton.death": "Demon teleports away",
+  "subtitles.entity.wither_skeleton.hurt": "Demon pleasure",
+  "advancements.nether.get_wither_skull.description": "Obtain a Demon's skull",
+  "advancements.nether.get_wither_skull.title": "Spooky Scary Demon",
+  "entity.minecraft.polar_bear": "Grizzly",
+  "item.minecraft.polar_bear_spawn_egg": "Grizzly Spawn Egg",
+  "subtitles.entity.polar_bear.ambient": "Grizzly groans",
+  "subtitles.entity.polar_bear.ambient_baby": "Grizzly hums",
+  "subtitles.entity.polar_bear.death": "Grizzly dies",
+  "subtitles.entity.polar_bear.hurt": "Grizzly hurts",
+  "subtitles.entity.polar_bear.warning": "Grizzly roars"
 }
