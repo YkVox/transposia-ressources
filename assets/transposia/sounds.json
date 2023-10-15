@@ -8,6 +8,346 @@
 	]
 },
 
+	"journey.acorn": {
+		"category": "ambient",
+		"sounds": [
+		{
+			"name":
+			"transposia:journey/acorn1"
+		},
+		{
+			"name":
+			"transposia:journey/acorn2"
+		},
+		{
+			"name":
+			"transposia:journey/acorn3"
+		},
+		{
+			"name":
+			"transposia:journey/acorn4"
+		},
+		{
+			"name":
+			"transposia:journey/acorn5"
+		}
+	]
+},
+
+	"journey.bagpipes": {
+		"category": "ambient",
+		"sounds": [
+		{
+			"name":
+			"transposia:journey/bagpipes1"
+		},
+		{
+			"name":
+			"transposia:journey/bagpipes2"
+		},
+		{
+			"name":
+			"transposia:journey/bagpipes3"
+		},
+		{
+			"name":
+			"transposia:journey/bagpipes4"
+		}
+	]
+},
+
+	"journey.bell": {
+		"category": "ambient",
+		"sounds": [
+		{
+			"name":
+			"transposia:journey/bell1"
+		},
+		{
+			"name":
+			"transposia:journey/bell2"
+		},
+		{
+			"name":
+			"transposia:journey/bell3"
+		},
+		{
+			"name":
+			"transposia:journey/bell4"
+		}
+	]
+},
+
+	"journey.cavalry": {
+		"category": "ambient",
+		"sounds": [
+		{
+			"name":
+			"transposia:journey/cavalry1"
+		},
+		{
+			"name":
+			"transposia:journey/cavalry2"
+		},
+		{
+			"name":
+			"transposia:journey/cavalry3"
+		},
+		{
+			"name":
+			"transposia:journey/cavalry4"
+		},
+		{
+			"name":
+			"transposia:journey/cavalry5"
+		}
+	]
+},
+
+	"journey.chant": {
+		"category": "ambient",
+		"sounds": [
+		{
+			"name":
+			"transposia:journey/chant1"
+		},
+		{
+			"name":
+			"transposia:journey/chant2"
+		},
+		{
+			"name":
+			"transposia:journey/chant3"
+		},
+		{
+			"name":
+			"transposia:journey/chant4"
+		}
+	]
+},
+
+	"journey.chord": {
+		"category": "ambient",
+		"sounds": [
+		{
+			"name":
+			"transposia:journey/chord1"
+		},
+		{
+			"name":
+			"transposia:journey/chord2"
+		},
+		{
+			"name":
+			"transposia:journey/chord3"
+		},
+		{
+			"name":
+			"transposia:journey/chord4"
+		},
+		{
+			"name":
+			"transposia:journey/chord5"
+		}
+	]
+},
+
+	"journey.drum": {
+		"category": "ambient",
+		"sounds": [
+		{
+			"name":
+			"transposia:journey/drum1"
+		},
+		{
+			"name":
+			"transposia:journey/drum2"
+		},
+		{
+			"name":
+			"transposia:journey/drum3"
+		},
+		{
+			"name":
+			"transposia:journey/drum4"
+		},
+		{
+			"name":
+			"transposia:journey/drum5"
+		}
+	]
+},
+
+	"journey.fever": {
+		"category": "ambient",
+		"sounds": [
+		{
+			"name":
+			"transposia:journey/fever1"
+		},
+		{
+			"name":
+			"transposia:journey/fever2"
+		},
+		{
+			"name":
+			"transposia:journey/fever3"
+		},
+		{
+			"name":
+			"transposia:journey/fever4"
+		},
+		{
+			"name":
+			"transposia:journey/fever5"
+		}
+	]
+},
+
+	"journey.horn": {
+		"category": "ambient",
+		"sounds": [
+		{
+			"name":
+			"transposia:journey/horn1"
+		},
+		{
+			"name":
+			"transposia:journey/horn2"
+		},
+		{
+			"name":
+			"transposia:journey/horn3"
+		},
+		{
+			"name":
+			"transposia:journey/horn4"
+		},
+		{
+			"name":
+			"transposia:journey/horn5"
+		}
+	]
+},
+
+	"journey.klank": {
+		"category": "ambient",
+		"sounds": [
+		{
+			"name":
+			"transposia:journey/klank1"
+		},
+		{
+			"name":
+			"transposia:journey/klank2"
+		},
+		{
+			"name":
+			"transposia:journey/klank3"
+		},
+		{
+			"name":
+			"transposia:journey/klank4"
+		},
+		{
+			"name":
+			"transposia:journey/klank5"
+		},
+		{
+			"name":
+			"transposia:journey/klank6"
+		}
+	]
+},
+
+	"journey.piano": {
+		"category": "ambient",
+		"sounds": [
+		{
+			"name":
+			"transposia:journey/piano1"
+		},
+		{
+			"name":
+			"transposia:journey/piano2"
+		},
+		{
+			"name":
+			"transposia:journey/piano3"
+		},
+		{
+			"name":
+			"transposia:journey/piano4"
+		},
+		{
+			"name":
+			"transposia:journey/piano5"
+		}
+	]
+},
+
+	"journey.silence": {
+		"category": "ambient",
+		"sounds": [
+		{
+			"name":
+			"transposia:journey/silence1"
+		}
+	]
+},
+
+	"journey.strings": {
+		"category": "ambient",
+		"sounds": [
+		{
+			"name":
+			"transposia:journey/strings1"
+		},
+		{
+			"name":
+			"transposia:journey/strings2"
+		},
+		{
+			"name":
+			"transposia:journey/strings3"
+		},
+		{
+			"name":
+			"transposia:journey/strings4"
+		},
+		{
+			"name":
+			"transposia:journey/strings5"
+		}
+	]
+},
+
+	"journey.vibration": {
+		"category": "ambient",
+		"sounds": [
+		{
+			"name":
+			"transposia:journey/vibration1"
+		},
+		{
+			"name":
+			"transposia:journey/vibration2"
+		},
+		{
+			"name":
+			"transposia:journey/vibration3"
+		},
+		{
+			"name":
+			"transposia:journey/vibration4"
+		},
+		{
+			"name":
+			"transposia:journey/vibration5"
+		}
+	]
+},
+
 	"ambient.academy": {
 		"category": "ambient",
 		"sounds": [

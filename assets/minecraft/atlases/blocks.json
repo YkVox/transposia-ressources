@@ -7,6 +7,11 @@
         },
         {
             "type": "directory",
+            "source": "font",
+            "prefix": "font/"
+        },
+        {
+            "type": "directory",
             "source": "item",
             "prefix": "item/"
         },
