@@ -44,6 +44,12 @@
 				"custom_model_data": 7777
 			},
 			"model": "item/weapon/bottled_spirit"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 31415
+			},
+			"model": "transposia:item/weapon/duel_glove"
 		}
   ]
 }
