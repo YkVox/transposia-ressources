@@ -38,6 +38,12 @@
 				"custom_model_data": 6002
 			},
 			"model": "item/weapon/wolf_memory"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7777
+			},
+			"model": "item/weapon/bottled_spirit"
 		}
   ]
 }

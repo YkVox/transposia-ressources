@@ -453,5 +453,73 @@
 			"pitch": 0.95
 		}
 	]
+},
+"weapon.vox.glitch.long": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:weapon/glitch1"
+		},
+		{
+			"name":
+			"transposia:weapon/glitch2"
+		},
+		{
+			"name":
+			"transposia:weapon/glitch3"
+		},
+		{
+			"name":
+			"transposia:weapon/glitch4"
+		},
+		{
+			"name":
+			"transposia:weapon/glitch5"
+		},
+		{
+			"name":
+			"transposia:weapon/glitch6"
+		}
+	]
+},
+"weapon.vox.glitch.short": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:weapon/glitchshort/glitch_short_01"
+		},
+		{
+			"name":
+			"transposia:weapon/glitchshort/glitch_short_02"
+		},
+		{
+			"name":
+			"transposia:weapon/glitchshort/glitch_short_03"
+		},
+		{
+			"name":
+			"transposia:weapon/glitchshort/glitch_short_04"
+		},
+		{
+			"name":
+			"transposia:weapon/glitchshort/glitch_short_05"
+		},
+		{
+			"name":
+			"transposia:weapon/glitchshort/glitch_short_06"
+		},
+		{
+			"name":
+			"transposia:weapon/glitchshort/glitch_short_07"
+		},
+		{
+			"name":
+			"transposia:weapon/glitchshort/glitch_short_08"
+		}
+	]
 }
 }
