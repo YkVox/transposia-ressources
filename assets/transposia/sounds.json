@@ -599,5 +599,213 @@
 			"pitch": 0.95
 		}
 	]
+},
+"weapon.sword.stone": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:weapon/stone_sword",
+			"pitch": 1.03
+		},
+		{
+			"name":
+			"transposia:weapon/stone_sword",
+			"pitch": 1
+		},
+		{
+			"name":
+			"transposia:weapon/stone_sword",
+			"pitch": 0.97
+		},
+		{
+			"name":
+			"transposia:weapon/stone_sword",
+			"pitch": 0.95
+		}
+	]
+},
+"weapon.sword.iron": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:weapon/iron_sword",
+			"pitch": 1.03
+		},
+		{
+			"name":
+			"transposia:weapon/iron_sword",
+			"pitch": 1
+		},
+		{
+			"name":
+			"transposia:weapon/iron_sword",
+			"pitch": 0.97
+		},
+		{
+			"name":
+			"transposia:weapon/iron_sword",
+			"pitch": 0.95
+		}
+	]
+},
+"weapon.sword.gold": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:weapon/gold_sword",
+			"pitch": 1.03
+		},
+		{
+			"name":
+			"transposia:weapon/gold_sword",
+			"pitch": 1
+		},
+		{
+			"name":
+			"transposia:weapon/gold_sword",
+			"pitch": 0.97
+		},
+		{
+			"name":
+			"transposia:weapon/gold_sword",
+			"pitch": 0.95
+		}
+	]
+},
+"weapon.sword.diamond": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:weapon/diamond_sword",
+			"pitch": 1.03
+		},
+		{
+			"name":
+			"transposia:weapon/diamond_sword",
+			"pitch": 1
+		},
+		{
+			"name":
+			"transposia:weapon/diamond_sword",
+			"pitch": 0.97
+		},
+		{
+			"name":
+			"transposia:weapon/diamond_sword",
+			"pitch": 0.95
+		}
+	]
+},
+"weapon.sword.netherite": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:weapon/netherite_sword",
+			"pitch": 1.03
+		},
+		{
+			"name":
+			"transposia:weapon/netherite_sword",
+			"pitch": 1
+		},
+		{
+			"name":
+			"transposia:weapon/netherite_sword",
+			"pitch": 0.97
+		},
+		{
+			"name":
+			"transposia:weapon/netherite_sword",
+			"pitch": 0.95
+		}
+	]
+},
+"weapon.sword.carnage": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:weapon/carnage_sword",
+			"pitch": 1.03
+		},
+		{
+			"name":
+			"transposia:weapon/carnage_sword",
+			"pitch": 1
+		},
+		{
+			"name":
+			"transposia:weapon/carnage_sword",
+			"pitch": 0.97
+		},
+		{
+			"name":
+			"transposia:weapon/carnage_sword",
+			"pitch": 0.95
+		}
+	]
+},
+"weapon.black.knife": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:weapon/black_knife",
+			"pitch": 1.03
+		},
+		{
+			"name":
+			"transposia:weapon/black_knife",
+			"pitch": 1
+		},
+		{
+			"name":
+			"transposia:weapon/black_knife",
+			"pitch": 0.97
+		},
+		{
+			"name":
+			"transposia:weapon/black_knife",
+			"pitch": 0.95
+		}
+	]
+},
+"weapon.black.knife.use": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:weapon/used_black_knife",
+			"pitch": 1.03
+		},
+		{
+			"name":
+			"transposia:weapon/used_black_knife",
+			"pitch": 1
+		},
+		{
+			"name":
+			"transposia:weapon/used_black_knife",
+			"pitch": 0.97
+		},
+		{
+			"name":
+			"transposia:weapon/used_black_knife",
+			"pitch": 0.95
+		}
+	]
 }
 }
