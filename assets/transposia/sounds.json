@@ -521,5 +521,83 @@
 			"transposia:weapon/glitchshort/glitch_short_08"
 		}
 	]
+},
+"ambient.hopecrimson.enter": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:ambient/hopecrimson/enter",
+			"pitch": 1.03
+		},
+		{
+			"name":
+			"transposia:ambient/hopecrimson/enter",
+			"pitch": 1
+		},
+		{
+			"name":
+			"transposia:ambient/hopecrimson/enter",
+			"pitch": 0.97
+		},
+		{
+			"name":
+			"transposia:ambient/hopecrimson/enter",
+			"pitch": 0.95
+		}
+	]
+},
+"ambient.hopecrimson.leave": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:ambient/hopecrimson/leave",
+			"pitch": 1.03
+		},
+		{
+			"name":
+			"transposia:ambient/hopecrimson/leave",
+			"pitch": 1
+		},
+		{
+			"name":
+			"transposia:ambient/hopecrimson/leave",
+			"pitch": 0.97
+		},
+		{
+			"name":
+			"transposia:ambient/hopecrimson/leave",
+			"pitch": 0.95
+		}
+	]
+},
+"ambient.hopecrimson.bass": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:ambient/hopecrimson/bass",
+			"pitch": 1.03
+		},
+		{
+			"name":
+			"transposia:ambient/hopecrimson/bass",
+			"pitch": 1
+		},
+		{
+			"name":
+			"transposia:ambient/hopecrimson/bass",
+			"pitch": 0.97
+		},
+		{
+			"name":
+			"transposia:ambient/hopecrimson/bass",
+			"pitch": 0.95
+		}
+	]
 }
 }

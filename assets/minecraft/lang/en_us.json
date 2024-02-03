@@ -41,5 +41,6 @@
   "subtitles.entity.polar_bear.ambient_baby": "Grizzly hums",
   "subtitles.entity.polar_bear.death": "Grizzly dies",
   "subtitles.entity.polar_bear.hurt": "Grizzly hurts",
-  "subtitles.entity.polar_bear.warning": "Grizzly roars"
+  "subtitles.entity.polar_bear.warning": "Grizzly roars",
+  "block.minecraft.structure_void": "Crafted Item"
 }
