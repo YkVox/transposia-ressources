@@ -807,5 +807,68 @@
 			"pitch": 0.95
 		}
 	]
+},
+"weapon.conch.winds": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:weapon/conch_winds",
+			"pitch": 1.03
+		},
+		{
+			"name":
+			"transposia:weapon/conch_winds",
+			"pitch": 1
+		},
+		{
+			"name":
+			"transposia:weapon/conch_winds",
+			"pitch": 0.97
+		}
+	]
+},
+"weapon.conch.tears": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:weapon/conch_tears",
+			"pitch": 1.03
+		},
+		{
+			"name":
+			"transposia:weapon/conch_tears",
+			"pitch": 1
+		},
+		{
+			"name":
+			"transposia:weapon/conch_tears",
+			"pitch": 0.97
+		}
+	]
+},
+"weapon.conch.anger": {
+	"category": "player",
+	"replace": true,
+	"sounds": [
+		{
+			"name":
+			"transposia:weapon/conch_anger",
+			"pitch": 1.03
+		},
+		{
+			"name":
+			"transposia:weapon/conch_anger",
+			"pitch": 1
+		},
+		{
+			"name":
+			"transposia:weapon/conch_anger",
+			"pitch": 0.97
+		}
+	]
 }
 }
