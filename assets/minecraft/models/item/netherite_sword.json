@@ -1,0 +1,19 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/netherite_sword"
+	},
+	"overrides": [{
+			"predicate": {
+				"custom_model_data": 4444
+			},
+			"model": "transposia:item/weapon/black_knife"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9999
+			},
+			"model": "transposia:item/weapon/carnage_sword"
+		}
+	]
+}

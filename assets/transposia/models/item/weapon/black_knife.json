@@ -1,0 +1,37 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "transposia:weapon/black_knife"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [53, 90, 0],
+			"translation": [0, 6.25, 1.25],
+			"scale": [0.71, 0.71, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [53, -90, 0],
+			"translation": [0, 6.25, 1.25],
+			"scale": [0.71, 0.71, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [7, 90, 0],
+			"translation": [0, 6.25, 1.25],
+			"scale": [0.71, 0.71, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [7, -90, 0],
+			"translation": [0, 6.25, 1.25],
+			"scale": [0.71, 0.71, 1]
+		},
+		"ground": {
+			"translation": [1.25, 0, 0],
+			"scale": [0.5, 0.5, 0.72]
+		},
+		"head": {
+			"rotation": [-69.75, 90, 0],
+			"translation": [0, -1.5, -3]
+		}
+	}
+}

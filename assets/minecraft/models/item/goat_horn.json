@@ -32,6 +32,24 @@
             },
             "model": "item/tooting_goat_horn"
         },
+        {
+			"predicate": {
+				"custom_model_data": 501
+			},
+			"model": "transposia:item/weapon/conch_sighs"
+		},
+        {
+			"predicate": {
+				"custom_model_data": 502
+			},
+			"model": "transposia:item/weapon/conch_tears"
+		},
+        {
+			"predicate": {
+				"custom_model_data": 503
+			},
+			"model": "transposia:item/weapon/conch_anger"
+		},
 		{
 			"predicate": {
 				"custom_model_data": 5000
