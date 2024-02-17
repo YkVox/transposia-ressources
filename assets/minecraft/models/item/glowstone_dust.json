@@ -20,6 +20,12 @@
 				"custom_model_data": 446
 			},
 			"model": "item/special/credit"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 447
+			},
+			"model": "transposia:item/special/icon"
 		}
   ]
 }
