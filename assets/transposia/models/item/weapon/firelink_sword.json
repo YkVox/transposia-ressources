@@ -1,0 +1,45 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"particle": "transposia:weapon/firelink_sword",
+		"layer0": "transposia:weapon/firelink_sword"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [49.25, 90, 0],
+			"translation": [0, 14, 1],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-40, 90, 0],
+			"translation": [0, 14, 1],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 85, 25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -98, -24],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [2, 2, 1]
+		},
+		"ground": {
+			"rotation": [0, 0, -60],
+			"scale": [1.16, 1.16, 0.81]
+		},
+		"gui": {
+			"scale": [1.34, 1.34, 1]
+		},
+		"head": {
+			"rotation": [0, 0, -95.5],
+			"translation": [-2, -13, 4.25],
+			"scale": [3, 3, 1.8]
+		},
+		"fixed": {
+			"scale": [2, 2, 1]
+		}
+	}
+}
